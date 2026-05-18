@@ -1,0 +1,15 @@
+.DS_Store
+.env
+/vendor
+/node_modules
+/database/*.sqlite
+/public/build
+/public/storage
+/bootstrap/cache/*.php
+/storage/*.key
+/storage/app/meetings
+/storage/app/private/meetings
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs/*.log
